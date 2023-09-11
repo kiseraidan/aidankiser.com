@@ -1,38 +1,48 @@
 {
   "name": "personalweb",
-  "version": "0.1.0",
+  "description": "Personal website running on Next.js and Chakra UI.",
+  "version": "1.0.0",
+  "author": "Aidan Kiser <aidan@kiser.io>",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-  },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prettier": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "dependencies": {
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "dayjs": "^1.10.7",
+    "fathom-client": "^3.4.1",
+    "feed": "^4.2.2",
+    "framer-motion": "^5.5.5",
+    "gray-matter": "^4.0.3",
+    "image-size": "^1.0.0",
+    "next": "12.0.7",
+    "next-mdx-remote": "^3.0.8",
+    "plaiceholder": "^2.2.0",
+    "prism-react-renderer": "^1.2.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "reading-time": "^1.5.0",
+    "slugify": "^1.6.4",
+    "unist-util-visit": "^4.1.0"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7",
+    "prettier": "^2.5.1"
+  },
+  "license": "CC-BY-NC-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiseraidan/aidankiser.com"
+  },
+  "bugs": {
+    "url": "https://github.com/kiseraidan/aidankiser.com/issues"
   }
 }
