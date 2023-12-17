@@ -77,8 +77,8 @@ const Navbar = props => {
             mt={{ base: 4, md: 0 }}
           >
             <LinkItem href="/">Home</LinkItem>
-            {/*<LinkItem href="/blog">Blog</LinkItem>*/}
             <LinkItem href="/about">About</LinkItem>
+            <LinkItem href="/blog">Blog</LinkItem>
             <LinkItem href="/resume.pdf">Resume</LinkItem>
             <LinkItem href="mailto:aidan@kiser.io">Email</LinkItem>
           </Stack>
@@ -92,8 +92,8 @@ const Navbar = props => {
             mt={{ base: 4, md: 0 }}
           >
             <LinkItem href="/">Home</LinkItem>
-            {/*<LinkItem href="/blog">Blog</LinkItem>*/}
             <LinkItem href="/about">About</LinkItem>
+            <LinkItem href="/blog">Blog</LinkItem>
             <LinkItem href="/resume.pdf">Resume</LinkItem>
             <LinkItem href="mailto:aidan@kiser.io">Email</LinkItem>
           </Stack>

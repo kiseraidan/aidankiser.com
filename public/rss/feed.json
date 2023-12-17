@@ -9,6 +9,17 @@
     },
     "items": [
         {
+            "id": "https://aidankiser.com//blog/my-first-post",
+            "url": "https://aidankiser.com//blog/my-first-post",
+            "title": "My First Post",
+            "summary": "My First Post",
+            "date_modified": "2023-12-16T00:00:00.000Z",
+            "author": {
+                "name": "Aman Mittal",
+                "url": "https://twitter.com/aidankiser"
+            }
+        },
+        {
             "id": "https://aidankiser.com//blog/clear-global-npx-cache",
             "url": "https://aidankiser.com//blog/clear-global-npx-cache",
             "title": "How to clear global npx cache",

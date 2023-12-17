@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aidankiser.com/</id>
     <title>Aman Mittal' blog</title>
-    <updated>2023-09-11T04:06:14.521Z</updated>
+    <updated>2023-12-17T02:57:51.104Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Aman Mittal</name>
@@ -13,6 +13,18 @@
     <link rel="self" href="https://aidankiser.com//rss/atom.xml"/>
     <icon>https://aidankiser.com//favicon.jpg</icon>
     <rights>2019 - 2023, Aman Mittal · All Rights Reserved.</rights>
+    <entry>
+        <title type="html"><![CDATA[My First Post]]></title>
+        <id>https://aidankiser.com//blog/my-first-post</id>
+        <link href="https://aidankiser.com//blog/my-first-post"/>
+        <updated>2023-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My First Post]]></summary>
+        <author>
+            <name>Aman Mittal</name>
+            <email>amanmittal.work@gmail.com</email>
+            <uri>https://twitter.com/aidankiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to clear global npx cache]]></title>
         <id>https://aidankiser.com//blog/clear-global-npx-cache</id>
