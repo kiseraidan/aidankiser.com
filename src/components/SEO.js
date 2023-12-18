@@ -5,7 +5,7 @@ const author = 'Aidan Kiser';
 const shortname = 'amanhimself';
 const description =
   "I'm Aman Mittal (@amanhimself). Software Developer and Tech Writer. Welcome to my blog!";
-const socialBanner = '/card.png';
+const socialBanner = '/avatar.png';
 
 const DocumentHead = ({ pageTitle, postPath, canonicalUrl }) => {
   let postUrl = `${siteURL}`;
