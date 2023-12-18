@@ -95,7 +95,7 @@ const BlogPostPage = ({
   return (
     <>
       <DocumentHead
-        pageTitle={`${title} by Aman Mittal`}
+        pageTitle={`${title} by Aidan Kiser`}
         postPath={`/${slug}/`}
         canonicalUrl={canonicalUrl}
       />
