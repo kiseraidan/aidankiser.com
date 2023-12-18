@@ -28,6 +28,10 @@ const TAGS_ARRAY = [
     name: 'auburn',
     color: '#ff6900'
   },
+  {
+    name: 'school-work',
+    color: '#408ef5'
+  },
   /*{
     name: 'git',
     color: '#ee4e3a'
@@ -57,13 +61,9 @@ const TAGS_ARRAY = [
     color: '#000D6B'
   },*/
   {
-    name: 'tools',
+    name: 'software',
     color: '#B799FF'
   },
-  /*{
-    name: 'typescript',
-    color: '#408ef5'
-  },*/
   {
     name: 'writing',
     color: '#526D82'
