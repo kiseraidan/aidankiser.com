@@ -10,7 +10,7 @@ import {
 import Image from 'next/image';
 
 import { DocumentHead } from '../src/components';
-import { MEDIUM, TWITTER } from '../src/data/socialLinks';
+import { MEDIUM, XDOTCOM } from '../src/data/socialLinks';
 import { SponsorCard } from '../src/components/BlogPostPage';
 
 const SPONSORS_LIST = [
@@ -53,7 +53,7 @@ const SponsorshipPage = () => {
           got{' '}
           <Link
             isExternal
-            href="https://twitter.com/aidankiser/status/1285554115464982528"
+            href="https://x.com/aidankiser/status/1285554115464982528"
             color="purple.500"
           >
             millions
@@ -87,8 +87,8 @@ const SponsorshipPage = () => {
         <Text lineHeight="175%" as="h2" fontSize="lg">
           Since then, this blog has grown its own audience. Each new post is
           announced on my{' '}
-          <Link isExternal href={TWITTER} color="purple.500">
-            Twitter
+          <Link isExternal href={XDOTCOM} color="purple.500">
+            X.com
           </Link>{' '}
           and included in my newsletter. This results in over{' '}
           <Link

@@ -12,7 +12,7 @@ const ShareArticle = ({ title, slug }) => {
       <HStack justifyContent="flex-start" paddingTop='10'>
         <FaTwitterSquare color={textMode} size="20px" />
         <Text fontWeight="600" color={textMode} fontSize="xl">
-          Share this article on Twitter
+          Share this article on X.com
         </Text>
       </HStack>
     </Link>

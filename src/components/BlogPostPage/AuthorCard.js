@@ -20,7 +20,7 @@ const AuthorCard = () => {
         <VStack alignItems="stretch" as="section" pt={2}>
           <HStack justifyContent="space-between">
             <Text fontSize="md" fontWeight="600" color={textMode}>
-              <Link href="/about">Aman Mittal</Link>{' '}
+              <Link href="/about">Aidan Kiser</Link>{' '}
               <Text fontSize="sm" color="purple.500" as="i">
                 author
               </Text>
@@ -34,7 +34,7 @@ const AuthorCard = () => {
               > */}
               <Link
                 isExternal
-                href="https://github.com/sponsors/amandeepmittal?frequency=one-time"
+                href="https://github.com/kiseraidan" // Add new link when sponsorship is updated
               >
                 <Text fontSize="13px" color="purple.500" fontWeight="bold">
                   Buy me coffee
@@ -42,9 +42,9 @@ const AuthorCard = () => {
               </Link>
               {/* </Box> */}
               <Box>&nbsp;</Box>
-              <Link isExternal href="https://amanhimself.substack.com/">
+              <Link isExternal href="https://instagram.com/aidankiser/">
                 <Text fontSize="13px" color="purple.500" fontWeight="bold">
-                  Newsletter
+                  Instagram
                 </Text>
               </Link>
               {/* </Box> */}
@@ -55,22 +55,20 @@ const AuthorCard = () => {
                 alignItems="center"
                 border="1px solid #805AD5"
               > */}
-              <Link isExternal href="https://twitter.com/aidankiser">
+              <Link isExternal href="https://x.com/aidankiser">
                 <Text fontSize="13px" color="purple.500" fontWeight="bold">
-                  Twitter
+                  X.com
                 </Text>
               </Link>
               {/* </Box> */}
             </HStack>
           </HStack>
           <Text fontSize="md" color={textMode}>
-            I&apos;m a software developer and a technical writer. In this blog,
-            I write about Technical writing, Node.js, React Native and Expo.
+          I&apos;m an undergraduate Software Engineer at Auburn University in Alabama.
             <br />
             <br />
-            Currently, working at Expo. Previously, I&apos;ve worked as a
-            Developer Advocate, and Senior Content Developer with companies like
-            Draftbit and Vercel.
+            Currently, searching for the the right company to intern with this Summer.
+            Previously, I was a Software Developer Intern with Progressive Insurance Corporation.
           </Text>
         </VStack>
       </HStack>

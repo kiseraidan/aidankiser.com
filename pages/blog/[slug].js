@@ -125,7 +125,7 @@ const BlogPostPage = ({
         <MDXRemote {...source} components={MDXComponents} />
         {/* Sponsor - only uncomment when there is an actual sponsor */}
         {/* <SponsorCard /> */}
-        {/* Share article on Twitter */}
+        {/* Share article on X.com */}
         <HStack justifyContent="center">
           <ShareArticle title={title} slug={slug} />
         </HStack>

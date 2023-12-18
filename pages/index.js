@@ -26,19 +26,19 @@ const generateRssFeed = async () => {
   const siteURL = 'https://aidankiser.com/';
   const date = new Date();
   const author = {
-    name: 'Aman Mittal',
-    email: 'amanmittal.work@gmail.com',
-    link: 'https://twitter.com/aidankiser'
+    name: 'Aidan Kiser',
+    email: 'aidan@kiser.io',
+    link: 'https://x.com/aidankiser'
   };
 
   const feed = new Feed({
-    title: "Aman Mittal' blog",
+    title: "Aidan Kiser' blog",
     description: '',
     id: siteURL,
     link: siteURL,
     logo: `${siteURL}/favicon.jpg`,
     favicon: `${siteURL}/favicon.jpg`,
-    copyright: `2019 - ${date.getFullYear()}, Aman Mittal · All Rights Reserved.`,
+    //copyright: `2019 - ${date.getFullYear()}, Aman Mittal · All Rights Reserved.`,
     // updated: date,
     generator: 'Feed for Node.js',
     feedLinks: {
@@ -51,6 +51,11 @@ const generateRssFeed = async () => {
 
   posts.forEach(post => {
     const url = `${siteURL}/blog/${post.slug}`;
+
+    // Skip blog posts with titles starting with a dot
+    if (post.slug.startsWith('.')) {
+      return;
+    }
 
     feed.addItem({
       title: post.title,

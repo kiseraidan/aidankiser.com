@@ -10,7 +10,7 @@ import {
 } from '@chakra-ui/react';
 
 import {
-  TWITTER,
+  XDOTCOM,
   GITHUB,
   INSTAGRAM,
   RESUME
@@ -31,9 +31,12 @@ const Footer = () => {
         alignItems="center"
         justifyContent={{ base: 'center', md: 'space-between' }}
       >
-        <Text color={linkColor}>
+        {/* <Text color={linkColor}>
           Copyright &copy;&nbsp; 2019-
           {`${new Date().getFullYear()} Aman Mittal · All Rights Reserved.`}
+        </Text> */}
+        <Text color={linkColor}>
+          You look great today btw
         </Text>
       </Stack>
       <HStack
@@ -58,9 +61,9 @@ const Footer = () => {
                 Newsletter
               </Text>
             </Link>
-            <Link isExternal href={TWITTER}>
+            <Link isExternal href={XDOTCOM}>
               <Text fontSize="sm" color={textMode}>
-                Twitter
+                X.com
               </Text>
             </Link>
             <Link isExternal href={INSTAGRAM}>
@@ -93,9 +96,9 @@ const Footer = () => {
                 Instagram
               </Text>
             </Link>
-            <Link isExternal href={TWITTER}>
+            <Link isExternal href={XDOTCOM}>
               <Text fontSize="sm" color={textMode}>
-                Twitter
+                X.com
               </Text>
             </Link>
           </HStack>

@@ -1,7 +1,7 @@
 import Head from 'next/head';
 
 const siteURL = 'https://aidankiser.com';
-const author = 'Aman Mittal';
+const author = 'Aidan Kiser';
 const shortname = 'amanhimself';
 const description =
   "I'm Aman Mittal (@amanhimself). Software Developer and Tech Writer. Welcome to my blog!";

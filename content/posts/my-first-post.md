@@ -2,8 +2,8 @@
 title: 'My First Post'
 slug: 'my-first-post'
 date: '2023-12-16'
-thumbnail: '/thumbnails/react.png' # come back later
-tag: 'react-native' # come back later
+thumbnail: '/thumbnails/writing.png'
+tag: 'writing'
 canonicalUrl: 'https://www.aidankiser.com/blog/my-first-post/'
 ---
 

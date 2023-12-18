@@ -74,12 +74,11 @@ const Blog = ({ posts }) => {
           Blog
         </Heading>
         <Text fontSize="xl">
-          Recent Web development and React Native tutorials and blog posts.
+          Nice! You found my collection of blog posts! Very well done.
         </Text>
         <Text fontSize="xl">
           In total I&#39;ve written <strong>{Object.keys(posts).length}</strong>{' '}
-          tutorials and posts on internet. This site is a collection of most of
-          the them.
+          posts on internet.
         </Text>
         {/* <InputGroup>
           <InputLeftElement pointerEvents="none">
