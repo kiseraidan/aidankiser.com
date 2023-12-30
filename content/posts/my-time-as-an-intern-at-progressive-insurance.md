@@ -9,7 +9,7 @@ canonicalUrl: 'https://www.aidankiser.com/blog/my-time-as-an-intern-at-progressi
 
 ## The Beginning
 
-I started my first semester at Auburn University in August 2020 as a Neuroscience major. After about four semesters, I had a bit of an identity crisis and decided I didn't want to continue in my Neuroscience studies. But now, I need to find a field to pivot to. I visited my Software Engineer brother in San Francisco that next Spring break and he had be do a Python bootcamp. Immediately after, I switched to the College of Engineering in Computer Science, and I've nver looked back.
+I started my first semester at Auburn University in August 2020 as a Neuroscience major. After about four semesters, I had a bit of an identity crisis and decided I didn't want to continue in my Neuroscience studies. But now, I need to find a field to pivot to. I visited my Software Engineer brother in San Francisco that next Spring break and he had be do a Python bootcamp. Immediately after, I switched to the College of Engineering in Computer Science, and I've never looked back.
 
 I had made the switch in August of 2022. It being so late in my college career, yet so early in my software engineering career, I knew I would benefit enormously with an internship.
 
