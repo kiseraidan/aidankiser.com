@@ -35,7 +35,7 @@ const AboutPage = () => {
         </Heading>
         <Text lineHeight="175%" as="h2" fontSize="lg">
           I was born in Anchorage, Alaska in December of 2001. Naturally, that
-          makes me 21 years old. I have lived all over the United States and
+          makes me 22 years old. I have lived all over the United States and
           even in Tokyo, Japan. Born in Anchorage, moved to Little Rock,
           Arkansas, to Vacaville, California, to La Plata, Maryland, to
           Fayetteville, North Carolina, to O&apos;Fallon, Illinois, to Tokyo,
@@ -91,8 +91,10 @@ const AboutPage = () => {
           At Progressive, I successfully completed and delivered four software
           projects, as well as gave a presentation about Japan to a group of
           over 100 people, one of which was the CIO, Steve Broz. Please see my
-          blog post regarding my time at Progressive, you can find it here.
-          (PUT THE LINK TO THE BLOG POST LATER)
+          blog post regarding my time at Progressive, you can find it {' '}
+            <ExternalLink href="https://www.aidankiser.com/blog/my-time-as-an-intern-at-progressive/">
+              here.
+            </ExternalLink>{' '}
         </Text>
         <Heading size="lg" as="h1" pt={8}>
           Skillset & Experience

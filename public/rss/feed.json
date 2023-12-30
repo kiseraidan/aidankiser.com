@@ -9,6 +9,17 @@
     },
     "items": [
         {
+            "id": "https://aidankiser.com//blog/my-time-as-an-intern-at-progressive-insurance",
+            "url": "https://aidankiser.com//blog/my-time-as-an-intern-at-progressive-insurance",
+            "title": "My Time as an Intern at Progressive Insurance",
+            "summary": "My Time as an Intern at Progressive Insurance",
+            "date_modified": "2023-12-17T00:00:00.000Z",
+            "author": {
+                "name": "Aidan Kiser",
+                "url": "https://x.com/aidankiser"
+            }
+        },
+        {
             "id": "https://aidankiser.com//blog/my-first-post",
             "url": "https://aidankiser.com//blog/my-first-post",
             "title": "My First Post",

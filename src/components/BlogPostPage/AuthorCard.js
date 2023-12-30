@@ -34,7 +34,7 @@ const AuthorCard = () => {
               > */}
               <Link
                 isExternal
-                href="https://github.com/kiseraidan" // Add new link when sponsorship is updated
+                href="https://github.com/sponsors/kiseraidan"
               >
                 <Text fontSize="13px" color="purple.500" fontWeight="bold">
                   Buy me coffee
