@@ -92,7 +92,7 @@ const AboutPage = () => {
           projects, as well as gave a presentation about Japan to a group of
           over 100 people, one of which was the CIO, Steve Broz. Please see my
           blog post regarding my time at Progressive, you can find it {' '}
-            <ExternalLink href="https://www.aidankiser.com/content/posts/my-time-as-an-intern-at-progressive/">
+            <ExternalLink href="https://www.aidankiser.com/blog/my-time-as-an-intern-at-progressive-insurance/>
               here.
             </ExternalLink>{' '}
         </Text>
