@@ -1,7 +1,7 @@
 ---
 title: 'My Time as an Intern at Progressive Insurance'
 slug: 'my-time-as-an-intern-at-progressive-insurance'
-date: '2023-12-17'
+date: '2023-12-30'
 thumbnail: '/thumbnails/progressive.png'
 tag: 'software'
 canonicalUrl: 'https://www.aidankiser.com/blog/my-time-as-an-intern-at-progressive-insurance/'
