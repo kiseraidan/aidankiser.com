@@ -50,7 +50,6 @@ const Navbar = props => {
         wrap="wrap"
         align="center"
         justify="space-between"
-        color="teal.500"
       >
         <Flex align="center" mr={4}>
           <Text
@@ -77,6 +76,7 @@ const Navbar = props => {
             alignItems="center"
             flexGrow={1}
             mt={{ base: 4, md: 0 }}
+            color="teal.500"
           >
             <LinkItem href="/">Home</LinkItem>
             <LinkItem href="/about">About</LinkItem>
