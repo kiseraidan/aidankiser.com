@@ -27,7 +27,7 @@ const SubscribeCard = () => {
             </Link>
           </Text>
           {isMobile ? null : (
-            <Text fontSize="sm" color="purple.500" as="i">
+            <Text fontSize="sm" color="teal.500" as="i">
               NEWSLETTER
             </Text>
           )}
@@ -37,7 +37,7 @@ const SubscribeCard = () => {
           Unsubscribe any time.
         </Text> */}
         <Link isExternal href="https://amanhimself.substack.com/">
-          <Text fontSize="md" fontWeight="700" color="purple.500">
+          <Text fontSize="md" fontWeight="700" color="teal.500">
             🔗 Subscribe on Revue
           </Text>
         </Link>

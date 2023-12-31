@@ -55,13 +55,14 @@ const Navbar = props => {
           <Text
             fontSize={{ base: '0px', md: '22px' }}
             fontWeight={{ base: '0', md: '600' }}
-            sx={{
+            color="teal.500"
+            /*sx={{
               background:
                 'linear-gradient(45deg, rgb(124, 58, 237), #da62c4 30%, #ffffff 60%)',
               '-webkit-background-clip': 'text',
               '-webkit-text-fill-color': 'transparent',
-              'background-size': '800%'
-            }}
+            'background-size': '800%'
+            }}*/
           >
             aidankiser.com
           </Text>

@@ -21,7 +21,7 @@ const AuthorCard = () => {
           <HStack justifyContent="space-between">
             <Text fontSize="md" fontWeight="600" color={textMode}>
               <Link href="/about">Aidan Kiser</Link>{' '}
-              <Text fontSize="sm" color="purple.500" as="i">
+              <Text fontSize="sm" color="teal.500" as="i">
                 author
               </Text>
             </Text>
@@ -36,14 +36,14 @@ const AuthorCard = () => {
                 isExternal
                 href="https://github.com/sponsors/kiseraidan"
               >
-                <Text fontSize="13px" color="purple.500" fontWeight="bold">
+                <Text fontSize="13px" color="teal.500" fontWeight="bold">
                   Buy me coffee
                 </Text>
               </Link>
               {/* </Box> */}
               <Box>&nbsp;</Box>
               <Link isExternal href="https://instagram.com/aidankiser/">
-                <Text fontSize="13px" color="purple.500" fontWeight="bold">
+                <Text fontSize="13px" color="teal.500" fontWeight="bold">
                   Instagram
                 </Text>
               </Link>
@@ -56,7 +56,7 @@ const AuthorCard = () => {
                 border="1px solid #805AD5"
               > */}
               <Link isExternal href="https://x.com/aidankiser">
-                <Text fontSize="13px" color="purple.500" fontWeight="bold">
+                <Text fontSize="13px" color="teal.500" fontWeight="bold">
                   X.com
                 </Text>
               </Link>

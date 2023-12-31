@@ -2,7 +2,7 @@
 title: 'My First Post'
 slug: 'my-first-post'
 date: '2023-12-16'
-thumbnail: '/thumbnails/writing.png'
+thumbnail: '/thumbnails/devlogo.png'
 tag: 'writing'
 canonicalUrl: 'https://www.aidankiser.com/blog/my-first-post/'
 ---

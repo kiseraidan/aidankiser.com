@@ -4,7 +4,7 @@ const siteURL = 'https://aidankiser.com';
 const author = 'Aidan Kiser';
 const shortname = 'amanhimself';
 const description =
-  "I'm Aman Mittal (@amanhimself). Software Developer and Tech Writer. Welcome to my blog!";
+  "I'm Aidan Kiser (@aidankiser). Undergraduate Software Developer. Welcome to my blog!";
 const socialBanner = '/avatar.png';
 
 const DocumentHead = ({ pageTitle, postPath, canonicalUrl }) => {
@@ -31,7 +31,7 @@ const DocumentHead = ({ pageTitle, postPath, canonicalUrl }) => {
       <meta name="publisher" content={author} />
       <meta
         name="keywords"
-        content="Aman Mittal, amanhimself, blog, Node.js, React, React Native, Expo"
+        content="Aidan Kiser, aidankiser, blog, Node.js, React, React Native, Expo"
       />
 
       <meta name="robots" content="index,follow" />
@@ -49,11 +49,11 @@ const DocumentHead = ({ pageTitle, postPath, canonicalUrl }) => {
       <meta name="og:image:alt" content={socialBanner} />
       <meta property="og:url" content={postPath ? postUrl : siteURL} />
       <meta property="og:type" content={postPath ? 'article' : 'website'} />
-      <meta property="og:site_name" content="Aman Mittal's Blog" />
+      <meta property="og:site_name" content="Aidan Kiser's Blog" />
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content={shortname} />
-      <meta name="twitter:title" content="Aman Mittal's Blog" />
+      <meta name="twitter:title" content="Aidan Kiser's Blog" />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={socialBanner} />
     </Head>

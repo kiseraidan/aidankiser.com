@@ -41,7 +41,7 @@ She gave me three solo projects, and then I was assigned a fourth to be complete
 
 * I completed a [Tableau](https://www.tableau.com/) dashboard displaying important data and analytics in the most visually appealing way.
 
-* I created a **Python** program that was able to match the IP addresses to their respective managers within the company. I used linux and a remote IDE to be able to sneak past some permissions.
+* I created a **Python** program that was able to match the IP addresses to their respective managers within the company. I used linux and a remote IDE to be able to issue the commands.
 
 * Tasked with creating a presentation about whether or not **multilingual functionality** could be added to the internal **AI chatbot** within the company. Not only did we successfully acquire sufficient research to complete the task, we created a functional demo of a multingual [Flo chatbot](https://progressive.mediaroom.com/news-releases/?item=122478), fluent in English, Spanish, and Mandarin.
 

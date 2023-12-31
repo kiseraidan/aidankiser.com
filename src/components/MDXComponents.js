@@ -42,7 +42,7 @@ const Table = props => (
 
 const THead = props => (
   <chakra.th
-    bg={useColorModeValue('gray.50', 'whiteAlpha.100')}
+    bg={useColorModeValue('gray.50', 'whitealpha.100')}
     fontWeight="semibold"
     p={2}
     fontSize="sm"
@@ -123,7 +123,7 @@ const CodeHighlight = ({ children: codeString, className: language }) => {
     }
   };
   const theme = dracula;
-  const lineNumberColor = 'whiteAlpha.500';
+  const lineNumberColor = 'whitealpha.500';
   const preBackground = 'gray.900';
   const showLineNumbers = !['shell', 'text'].includes(language);
 
@@ -189,8 +189,8 @@ const CodeHighlight = ({ children: codeString, className: language }) => {
 const InlineCode = props => (
   <chakra.code
     apply="mdx.code"
-    color={useColorModeValue('purple.500', 'purple.200')}
-    bg={useColorModeValue('purple.50', 'purple.900')}
+    color={useColorModeValue('teal.500', 'teal.200')}
+    bg={useColorModeValue('teal.50', 'teal.900')}
     px={1}
     py={0.5}
     rounded={{ base: 'none', md: 'md' }}
@@ -213,7 +213,7 @@ const LinkedHeading = props => {
       </Box>
       <chakra.span
         aria-label="anchor"
-        color="purple.500"
+        color="teal.500"
         userSelect="none"
         fontWeight="normal"
         fontSize="1rem"
@@ -249,7 +249,7 @@ const Anchor = props => {
   const { colorMode } = useColorMode();
   return (
     <chakra.a
-      color={mode('purple.500', 'purple.300')({ colorMode })}
+      color={mode('teal.500', 'teal.300')({ colorMode })}
       _hover={{ textDecoration: 'underline' }}
       {...props}
     />

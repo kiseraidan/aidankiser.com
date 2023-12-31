@@ -92,7 +92,7 @@ const HomePage = ({ posts }) => {
       <DocumentHead pageTitle="Aidan Kiser – Undergraduate Software Engineer." />
       <Hero />
       {/* Latest Blog Posts */}
-      {/*<LatestPostsSection posts={posts} />*/}
+      {<LatestPostsSection posts={posts} />}
       {/* Open Source Projects I've Worked on */}
       {/*<ProjectsSectionList projects={ProjectsList} />8?
       {/* Countries I've Visited */}

@@ -9,11 +9,22 @@
     },
     "items": [
         {
+            "id": "https://aidankiser.com//blog/my-new-logo",
+            "url": "https://aidankiser.com//blog/my-new-logo",
+            "title": "My New Logo",
+            "summary": "My New Logo",
+            "date_modified": "2023-12-31T00:00:00.000Z",
+            "author": {
+                "name": "Aidan Kiser",
+                "url": "https://x.com/aidankiser"
+            }
+        },
+        {
             "id": "https://aidankiser.com//blog/my-time-as-an-intern-at-progressive-insurance",
             "url": "https://aidankiser.com//blog/my-time-as-an-intern-at-progressive-insurance",
             "title": "My Time as an Intern at Progressive Insurance",
             "summary": "My Time as an Intern at Progressive Insurance",
-            "date_modified": "2023-12-17T00:00:00.000Z",
+            "date_modified": "2023-12-30T00:00:00.000Z",
             "author": {
                 "name": "Aidan Kiser",
                 "url": "https://x.com/aidankiser"

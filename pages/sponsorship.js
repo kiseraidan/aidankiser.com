@@ -45,7 +45,7 @@ const SponsorshipPage = () => {
         </Heading>
         <Text lineHeight="175%" as="h2" fontSize="lg">
           Since 2017, I have been publishing blog posts and tutorials on{' '}
-          <Link isExternal href={MEDIUM} color="purple.500">
+          <Link isExternal href={MEDIUM} color="teal.500">
             Medium
           </Link>
           . I have worked with esteemed publications like freeCodeCamp,
@@ -54,7 +54,7 @@ const SponsorshipPage = () => {
           <Link
             isExternal
             href="https://x.com/aidankiser/status/1285554115464982528"
-            color="purple.500"
+            color="teal.500"
           >
             millions
           </Link>{' '}
@@ -87,13 +87,13 @@ const SponsorshipPage = () => {
         <Text lineHeight="175%" as="h2" fontSize="lg">
           Since then, this blog has grown its own audience. Each new post is
           announced on my{' '}
-          <Link isExternal href={XDOTCOM} color="purple.500">
+          <Link isExternal href={XDOTCOM} color="teal.500">
             X.com
           </Link>{' '}
           and included in my newsletter. This results in over{' '}
           <Link
             href="https://aidankiser.com/blog/year-in-review-2022/#my-blog-in-numbers"
-            color="purple.500"
+            color="teal.500"
           >
             <strong>150k+</strong>
           </Link>{' '}
