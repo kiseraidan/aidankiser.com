@@ -76,7 +76,6 @@ const Navbar = props => {
             alignItems="center"
             flexGrow={1}
             mt={{ base: 4, md: 0 }}
-            color="teal.500"
           >
             <LinkItem href="/">Home</LinkItem>
             <LinkItem href="/about">About</LinkItem>
@@ -92,6 +91,7 @@ const Navbar = props => {
             alignItems="center"
             flexGrow={1}
             mt={{ base: 4, md: 0 }}
+            color="teal.500"
           >
             <LinkItem href="/">Home</LinkItem>
             <LinkItem href="/about">About</LinkItem>
