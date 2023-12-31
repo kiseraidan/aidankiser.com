@@ -41,7 +41,6 @@ const Navbar = props => {
       bg={useColorModeValue('#ffffff40', '#20202380')}
       css={{ backdropFilter: 'blur(10px)' }}
       zIndex={1}
-      color="teal.500"
       {...props}
     >
       <Container
@@ -51,6 +50,7 @@ const Navbar = props => {
         wrap="wrap"
         align="center"
         justify="space-between"
+        color="teal.500"
       >
         <Flex align="center" mr={4}>
           <Text
