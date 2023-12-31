@@ -55,10 +55,8 @@ My time with Progressive was ridiculously fun. The work was rewarding, the envir
 
 If you have any questions for me regarding any part of my time with Progressive, please feel free to email me or DM me on instagram. 
 
-Now, please enjoy these two picures of some friends I met and the Guardians stadium that I took while I was in Cleveland (they aren't there yet, standby).
+Now, please enjoy these two picures of some friends I met and the Guardians stadium that I took while I was in Cleveland.
 
-<!-- ![Alt text](../../public/imagesforblog/cleveland-friends.jpg) -->
+![Cleveland-Friends](https://i.imgur.com/FUo6EZh.jpg)
 
-<!-- ![](https://github.com/kiseraidan/aidankiser.com/public/imagesforblog/my-time-as-an-intern-at-progressive/cleveland-friends.jpg) -->
-
-<!-- ![](../../public/imagesforblog/cleveland-guardians.jpg) -->
+![Cleveland-Guardians](https://i.imgur.com/pWCph3W.jpg)
