@@ -58,17 +58,22 @@ const Footer = () => {
           >
             <Link isExternal href={RESUME}>
               <Text fontSize="sm" color={textMode}>
-                Newsletter
+                Resume
+              </Text>
+            </Link>
+            <Link isExternal href={GITHUB}>
+              <Text fontSize="sm" color={textMode}>
+                GitHub
+              </Text>
+            </Link>
+            <Link isExternal href={INSTAGRAM}>
+              <Text fontSize="sm" color={textMode}>
+                Instagram
               </Text>
             </Link>
             <Link isExternal href={XDOTCOM}>
               <Text fontSize="sm" color={textMode}>
                 X.com
-              </Text>
-            </Link>
-            <Link isExternal href={INSTAGRAM}>
-              <Text fontSize="sm" color={textMode}>
-                RSS
               </Text>
             </Link>
           </HStack>
