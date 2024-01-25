@@ -6,7 +6,7 @@ const ExternalLinksCloud = () => {
   return (
     <HStack>
       <Text>
-        <ExternalLink href="https://aidankiser.com/about">
+        <ExternalLink href="https://www.aidankiser.com/about/">
           🤙 More about me
         </ExternalLink>
       </Text>
