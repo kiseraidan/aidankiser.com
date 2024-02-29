@@ -6,7 +6,7 @@ const ShareArticle = ({ title, slug }) => {
 
   let productSlug = `https://aidankiser.com/blog/${slug}/`;
 
-  let twitterShareString = `https://twitter.com/intent/tweet?text=I'm currently reading 👉 ${title}&url=${productSlug} via @amanhimself`;
+  let twitterShareString = `https://twitter.com/intent/tweet?text=I'm currently reading 👉 ${title}&url=${productSlug} via @aidankiser`;
   return (
     <Link isExternal href={twitterShareString}>
       <HStack justifyContent="flex-start" paddingTop='10'>
