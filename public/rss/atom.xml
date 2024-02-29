@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aidankiser.com/</id>
     <title>Aidan Kiser' blog</title>
-    <updated>2024-01-25T16:08:43.566Z</updated>
+    <updated>2024-02-29T20:33:15.922Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Aidan Kiser</name>
@@ -12,6 +12,18 @@
     <link rel="alternate" href="https://aidankiser.com/"/>
     <link rel="self" href="https://aidankiser.com//rss/atom.xml"/>
     <icon>https://aidankiser.com//favicon.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[My Spring 2024 Semester at Auburn]]></title>
+        <id>https://aidankiser.com//blog/my-spring-2024-semester-at-auburn</id>
+        <link href="https://aidankiser.com//blog/my-spring-2024-semester-at-auburn"/>
+        <updated>2024-02-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My Spring 2024 Semester at Auburn]]></summary>
+        <author>
+            <name>Aidan Kiser</name>
+            <email>aidan@kiser.io</email>
+            <uri>https://x.com/aidankiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My New Logo]]></title>
         <id>https://aidankiser.com//blog/my-new-logo</id>

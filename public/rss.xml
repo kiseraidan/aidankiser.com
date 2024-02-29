@@ -4,9 +4,17 @@
         <title>Aidan Kiser' blog</title>
         <link>https://aidankiser.com/</link>
         <description></description>
-        <lastBuildDate>Thu, 25 Jan 2024 16:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 20:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
+        <item>
+            <title><![CDATA[My Spring 2024 Semester at Auburn]]></title>
+            <link>https://aidankiser.com//blog/my-spring-2024-semester-at-auburn</link>
+            <guid>https://aidankiser.com//blog/my-spring-2024-semester-at-auburn</guid>
+            <pubDate>Thu, 29 Feb 2024 06:00:00 GMT</pubDate>
+            <description><![CDATA[My Spring 2024 Semester at Auburn]]></description>
+            <author>aidan@kiser.io (Aidan Kiser)</author>
+        </item>
         <item>
             <title><![CDATA[My New Logo]]></title>
             <link>https://aidankiser.com//blog/my-new-logo</link>

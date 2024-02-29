@@ -3,10 +3,7 @@ title: 'My Spring 2024 Semester at Auburn'
 slug: 'my-spring-2024-semester-at-auburn'
 date: '2024-2-29'
 thumbnail: '/thumbnails/auburn.png'
-tags:
-  - 'auburn'
-  - 'software'
-  - 'school-work'
+tag: 'auburn'
 canonicalUrl: 'https://www.aidankiser.com/blog/my-spring-2024-semester-at-auburn/'
 ---
 

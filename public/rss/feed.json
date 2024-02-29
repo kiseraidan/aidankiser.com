@@ -9,6 +9,17 @@
     },
     "items": [
         {
+            "id": "https://aidankiser.com//blog/my-spring-2024-semester-at-auburn",
+            "url": "https://aidankiser.com//blog/my-spring-2024-semester-at-auburn",
+            "title": "My Spring 2024 Semester at Auburn",
+            "summary": "My Spring 2024 Semester at Auburn",
+            "date_modified": "2024-02-29T06:00:00.000Z",
+            "author": {
+                "name": "Aidan Kiser",
+                "url": "https://x.com/aidankiser"
+            }
+        },
+        {
             "id": "https://aidankiser.com//blog/my-new-logo",
             "url": "https://aidankiser.com//blog/my-new-logo",
             "title": "My New Logo",
