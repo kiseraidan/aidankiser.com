@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aidankiser.com/</id>
     <title>Aidan Kiser' blog</title>
-    <updated>2024-04-09T13:22:57.125Z</updated>
+    <updated>2024-04-16T23:00:17.122Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Aidan Kiser</name>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[Auburn University Club Tennis Spring 2024]]></title>
         <id>https://aidankiser.com//blog/auburn-university-club-tennis-spring-2024</id>
         <link href="https://aidankiser.com//blog/auburn-university-club-tennis-spring-2024"/>
-        <updated>2024-04-02T05:00:00.000Z</updated>
+        <updated>2024-04-16T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Auburn University Club Tennis Spring 2024]]></summary>
         <author>
             <name>Aidan Kiser</name>
@@ -28,7 +28,7 @@
         <title type="html"><![CDATA[My Summer 2024 Internship Search is Over]]></title>
         <id>https://aidankiser.com//blog/my-summer-2024-internship-search-is-over</id>
         <link href="https://aidankiser.com//blog/my-summer-2024-internship-search-is-over"/>
-        <updated>2024-04-01T05:00:00.000Z</updated>
+        <updated>2024-04-15T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[My Summer 2024 Internship Search is Over]]></summary>
         <author>
             <name>Aidan Kiser</name>
