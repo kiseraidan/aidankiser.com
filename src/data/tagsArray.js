@@ -26,7 +26,7 @@ const TAGS_ARRAY = [
   },
   {
     name: 'auburn',
-    color: '#ff6900'
+    color: '#FF6900'
   },
   {
     name: 'school-work',

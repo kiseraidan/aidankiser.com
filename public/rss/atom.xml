@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aidankiser.com/</id>
     <title>Aidan Kiser' blog</title>
-    <updated>2024-02-29T20:33:15.922Z</updated>
+    <updated>2024-04-09T13:22:57.125Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Aidan Kiser</name>
@@ -12,6 +12,30 @@
     <link rel="alternate" href="https://aidankiser.com/"/>
     <link rel="self" href="https://aidankiser.com//rss/atom.xml"/>
     <icon>https://aidankiser.com//favicon.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[Auburn University Club Tennis Spring 2024]]></title>
+        <id>https://aidankiser.com//blog/auburn-university-club-tennis-spring-2024</id>
+        <link href="https://aidankiser.com//blog/auburn-university-club-tennis-spring-2024"/>
+        <updated>2024-04-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Auburn University Club Tennis Spring 2024]]></summary>
+        <author>
+            <name>Aidan Kiser</name>
+            <email>aidan@kiser.io</email>
+            <uri>https://x.com/aidankiser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Summer 2024 Internship Search is Over]]></title>
+        <id>https://aidankiser.com//blog/my-summer-2024-internship-search-is-over</id>
+        <link href="https://aidankiser.com//blog/my-summer-2024-internship-search-is-over"/>
+        <updated>2024-04-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My Summer 2024 Internship Search is Over]]></summary>
+        <author>
+            <name>Aidan Kiser</name>
+            <email>aidan@kiser.io</email>
+            <uri>https://x.com/aidankiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Spring 2024 Semester at Auburn]]></title>
         <id>https://aidankiser.com//blog/my-spring-2024-semester-at-auburn</id>

@@ -22,7 +22,11 @@ export const getAllBlogPosts = async () => {
 
       const { text: timeToRead } = readingTime(fileContent);
 
-      const {
+      //  const {
+      //    data: { title, date, thumbnail, tag }
+      //  } = matter(fileContent);
+
+       const {
         data: { title, date, thumbnail, tag }
       } = matter(fileContent);
 
