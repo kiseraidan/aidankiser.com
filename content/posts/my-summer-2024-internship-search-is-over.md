@@ -2,7 +2,7 @@
 title: 'My Summer 2024 Internship Search is Over'
 slug: 'my-summer-2024-internship-search-is-over'
 date: '2024-4-15'
-thumbnail: '/thumbnails/nucor.png'
+thumbnail: '/thumbnails/devlogo.png'
 tag: 'software'
 canonicalUrl: 'https://www.aidankiser.com/blog/my-summer-2024-internship-search-is-over/'
 ---
