@@ -59,12 +59,12 @@ const AboutPage = () => {
         </Text>
         <Text lineHeight="175%" as="h2" fontSize="lg">
           I am a Software Engineer first and foremost, with a genuine passion
-          and obsession with Japan, hence the Asian Studies degree. I am
-          technically a senior, and I plan to graduate after the Fall 2024
-          semester. 
+          and obsession with Japan, hence the Asian Studies degree. I have one 
+          more semester left, and I plan to graduate after the Fall 2024
+          semester in December. 
         </Text>
         <Text lineHeight="175%" as="h2" fontSize="lg">
-        I just completed my first Software Developer internship with
+          I completed my first Software Developer internship with
             {' '}
             <ExternalLink href="https://www.progressive.com/">Progressive Insurance</ExternalLink>
             {' '} during the Summer of 2023. I spent the summer becoming
@@ -96,6 +96,14 @@ const AboutPage = () => {
               here.
             </ExternalLink>{' '}
         </Text>
+        
+        <Text lineHeight="175%" as="h2" fontSize="lg">
+        I&apos;m currently an incoming Process Automation Intern with
+            {' '} 
+            <ExternalLink href="https://nucor.com/">Nucor Steel</ExternalLink>
+            {' '} for the Summer of 2024.
+        </Text>
+        
         <Heading size="lg" as="h1" pt={8}>
           Skillset & Experience
         </Heading>

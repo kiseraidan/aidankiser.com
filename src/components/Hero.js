@@ -57,15 +57,17 @@ const Hero = () => {
             demonstrate my skills while also trying to communicate
             professionally with recruiters. 
           </Text>
+
           <Text lineHeight="175%" as="h2" fontSize="lg">
-            I just completed my first Software Developer internship with
+            I&apos;m currently an incoming Process Automation Intern with
+            {' '} 
+            <ExternalLink href="https://nucor.com/">Nucor Steel</ExternalLink>
+            {' '} for the Summer of 2024. I was previously a Software Developer Intern with
             {' '}
             <ExternalLink href="https://www.progressive.com/">Progressive Insurance</ExternalLink>
-            {' '} during the Summer of 2023. Now, I&apos;m spending this
-            current recruiting season looking for the right company to
-            demonstrate my skills for my second software internship for the
-            Summer of 2024.
+            {' '} during the Summer of 2023.
           </Text>
+
           <Text lineHeight="175%" as="h2" fontSize="lg">
             Feel free to take a look around. I have all kinds of things to
             pique your interest.
