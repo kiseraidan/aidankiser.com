@@ -1,7 +1,7 @@
 ---
 title: 'My First Few Weeks at Nucor'
 slug: 'my-first-few-weeks-at-nucor'
-date: '2024-6-4'
+date: '2024-6-5'
 thumbnail: '/thumbnails/devlogo.png'
 tag: 'software'
 canonicalUrl: 'https://www.aidankiser.com/blog/my-first-few-weeks-at-nucor/'
@@ -9,7 +9,8 @@ canonicalUrl: 'https://www.aidankiser.com/blog/my-first-few-weeks-at-nucor/'
 
 It is currently my third week here at Nucor and I'm happy to report that I am working on some pretty cool projects.
 
-** Insert picture
+![Nucor Rainy](https://i.imgur.com/YgfWemd.jpg)
+(Picture is bad, I know. I was in a rush unfortunately. Better pictues to come.)
 
  I have been given a couple projects already, one inolving a high-power Nano camera and some C#. Another one involving a web and mobile applications made from Kotlin. 
 

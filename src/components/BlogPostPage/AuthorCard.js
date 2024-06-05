@@ -67,7 +67,7 @@ const AuthorCard = () => {
           I&apos;m an undergraduate Software Engineer at Auburn University in Alabama.
             <br />
             <br />
-            Currently, searching for the the right company to intern with this Summer.
+            Currently, a Process Automation Engineer Intern with Nucor.
             Previously, I was a Software Developer Intern with Progressive Insurance Corporation.
           </Text>
         </VStack>
