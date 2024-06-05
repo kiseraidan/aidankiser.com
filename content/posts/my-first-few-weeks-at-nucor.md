@@ -9,9 +9,10 @@ canonicalUrl: 'https://www.aidankiser.com/blog/my-first-few-weeks-at-nucor/'
 
 It is currently my third week here at Nucor and I'm happy to report that I am working on some pretty cool projects.
 
+
 ![Nucor Rainy](https://i.imgur.com/YgfWemd.jpg)
 (Picture is bad, I know. I was in a rush unfortunately. Better pictues to come.)
-
+ 
  I have been given a couple projects already, one inolving a high-power Nano camera and some C#. Another one involving a web and mobile applications made from Kotlin. 
 
 Where I'm located is Decatur, AL at one of Nucor's sheet mills. On site is a melt shop, hot mill, and cold mill. They melt giant amounts of scrap metal in the melt shop, shape it and turn it into sheets in the hot mill, and add smaller or more specific details to the steel in the cold mill. 
