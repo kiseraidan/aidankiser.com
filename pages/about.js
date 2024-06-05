@@ -98,10 +98,16 @@ const AboutPage = () => {
         </Text>
         
         <Text lineHeight="175%" as="h2" fontSize="lg">
-        I&apos;m currently an incoming Process Automation Intern with
+        I&apos;m currently a Process Automation Intern with
             {' '} 
             <ExternalLink href="https://nucor.com/">Nucor Steel</ExternalLink>
             {' '} for the Summer of 2024.
+            I'm in the process of automating defect detection in steel samples
+            as well digitizing Nucor's lockout/tagout procedures. See my blog
+            post regarding my first few weeks at nucor {' '}
+              <ExternalLink href='https://www.aidankiser.com/blog/my-first-few-weeks-at-nucor/'>
+                here.
+              </ExternalLink>{' '}
         </Text>
         
         <Heading size="lg" as="h1" pt={8}>

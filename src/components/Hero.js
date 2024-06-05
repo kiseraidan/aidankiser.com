@@ -59,9 +59,9 @@ const Hero = () => {
           </Text>
 
           <Text lineHeight="175%" as="h2" fontSize="lg">
-            I&apos;m currently an incoming Process Automation Intern with
+            I&apos;m currently a Process Automation Intern with
             {' '} 
-            <ExternalLink href="https://nucor.com/">Nucor Steel</ExternalLink>
+            <ExternalLink href="https://nucor.com/">Nucor</ExternalLink>
             {' '} for the Summer of 2024. I was previously a Software Developer Intern with
             {' '}
             <ExternalLink href="https://www.progressive.com/">Progressive Insurance</ExternalLink>
